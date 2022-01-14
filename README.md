@@ -6,7 +6,9 @@ The Notebooks folder contains two Jupyter notebooks:
 - "DER_and_Clustering" contains the implementation of the DER + SCAN model, the solution proposed in this work.
 
 The Results folder contains some plots and screenshots about the accuracy results obtained with these models.
+
 The data folder contains the .pkl files used for training the DER+SCAN model using data with cluster labels.
+
 The saved_models folder contains some empty directories emoty than can be used for storing trained models on DER or DER+SCAN.
 
 Credits for DER model:
