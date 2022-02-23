@@ -11,7 +11,7 @@ The data folder contains the .pkl files used for training the DER+SCAN model usi
 
 The saved_models folder contains some empty directories emoty than can be used for storing trained models on DER or DER+SCAN.
 
-Some clustering results obtained on the MNIST and Cifar-10 datasets using 10 clusters, and the average accuracies achieved using the DER + SCAN model, are shown below.
+Some clustering results obtained on the MNIST and Cifar-10 datasets using 10 clusters, and the average accuracies achieved using the DER + SCAN model in both multi-branch and single-branch modalities, are shown below.
 
 ![MNIST_clustering_10_Task_1](https://user-images.githubusercontent.com/48278123/155314811-460a9f23-f0aa-440b-b584-f45778e594ef.png)
 
@@ -27,8 +27,8 @@ Some clustering results obtained on the MNIST and Cifar-10 datasets using 10 clu
 ![CIFAR_mean_accuracy_class_il](https://user-images.githubusercontent.com/48278123/149526644-f95e8191-ffd5-47c7-82bb-afdf63815155.png)
 ![CIFAR_mean_accuracy_task_il](https://user-images.githubusercontent.com/48278123/149526653-a0da566c-99ec-4bc8-92fa-3a53143e6312.png)
 
-
-
+![CIL_mean_accuracy_single_branch_MNIST](https://user-images.githubusercontent.com/48278123/155314968-7e1ab7f0-0912-40a6-b6a2-3959a0c73c1a.png)
+![CIL_mean_accuracy_single_branch_CIFAR](https://user-images.githubusercontent.com/48278123/155314984-75241570-fda3-4d92-9380-a7568dbea513.png)
 
 Credits for DER model:
 ```
