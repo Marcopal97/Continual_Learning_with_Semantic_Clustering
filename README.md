@@ -13,9 +13,9 @@ The saved_models folder contains some empty directories emoty than can be used f
 
 Some clustering results obtained on the MNIST and Cifar-10 datasets using 10 clusters, and the average accuracies achieved using the DER + SCAN model, are shown below.
 
-![MNIST_clustering_10_Task_1](https://user-images.githubusercontent.com/48278123/149526267-ef09b738-76de-40c9-959f-88cc238ae3f1.png)
+![MNIST_clustering_10_Task_1](https://user-images.githubusercontent.com/48278123/155314811-460a9f23-f0aa-440b-b584-f45778e594ef.png)
 
-![MNIST_clustering_10_Task_2](https://user-images.githubusercontent.com/48278123/149526275-0db3b2cd-2694-48e6-9923-197ab10f2e72.png)
+![MNIST_clustering_10_Task_2](https://user-images.githubusercontent.com/48278123/155314821-1b91039d-f5bb-43e2-a0a6-f9578350104d.png)
 
 ![Clustering_200_task0_10_clusters](https://user-images.githubusercontent.com/48278123/149526415-d059a9ff-8742-40ad-bff1-73f64a7c5e9e.png)
 
