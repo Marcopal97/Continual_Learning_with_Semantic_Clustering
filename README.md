@@ -9,7 +9,7 @@ The Results folder contains some plots and screenshots about the accuracy result
 
 The data folder contains the .pkl files used for training the DER+SCAN model using data with cluster labels.
 
-The saved_models folder contains some empty directories emoty than can be used for storing trained models on DER or DER+SCAN.
+The saved_models folder contains some empty directories than can be used for storing trained models on DER or DER+SCAN.
 
 Some clustering results obtained on the MNIST and Cifar-10 datasets using 10 clusters, and the average accuracies achieved using the DER + SCAN model in both multi-branch and single-branch modalities, are shown below.
 
